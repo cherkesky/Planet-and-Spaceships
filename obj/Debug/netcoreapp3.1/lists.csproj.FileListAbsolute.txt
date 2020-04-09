@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.deps.json
+/Users/cherkesky/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.dll
+/Users/cherkesky/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.pdb
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.dll
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.pdb
+/Users/cherkesky/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.genruntimeconfig.cache
