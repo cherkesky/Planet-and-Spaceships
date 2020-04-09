@@ -36,7 +36,7 @@ namespace lists
         Console.Write(item);
       }
 
-      Console.WriteLine("\n Length: {0} {1}", planetList.Count, rockyPlanets.Count);
+      Console.WriteLine("\n planetList Length:{0}  \n rockyPlanets Length:{1}", planetList.Count, rockyPlanets.Count);
     
     }
   }
